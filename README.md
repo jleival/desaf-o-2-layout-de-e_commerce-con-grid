@@ -2,6 +2,26 @@
 
 ---
 
+## 🌐 Demo del proyecto
+
+<p align="center">
+  <a href="https://jleival.github.io/desafio-2-layout-de-e_commerce-con-grid/">
+    <img src="https://img.shields.io/badge/🔗_Ver_Demo-GitHub_Pages-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jleival.github.io/desafio-2-layout-de-e_commerce-con-grid/">
+    <img 
+      src="https://raw.githubusercontent.com/jleival/desafio-2-layout-de-e_commerce-con-grid/main/assets/img/preview.png" 
+      alt="Preview del proyecto"
+      width="900"
+    >
+  </a>
+</p>
+
+---
+
 ## 📌 Descripción
 
 Este proyecto consiste en el desarrollo de una tienda online responsiva utilizando HTML5, CSS Grid y Flexbox. El objetivo principal es construir un layout moderno y organizado aplicando buenas prácticas de maquetación web.
