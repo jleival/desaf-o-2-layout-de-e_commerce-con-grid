@@ -198,7 +198,7 @@ Ejemplo:
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/jleival/desaf-o-2-layout-de-e_commerce-con-grid.git
+git clone https://github.com/jleival/desafio-2-layout-de-e_commerce-con-grid.git
 ```
 
 2. Abrir el proyecto en Visual Studio Code.
