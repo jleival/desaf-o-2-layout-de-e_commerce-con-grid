@@ -38,6 +38,26 @@ El desafío fue desarrollado siguiendo los requerimientos solicitados para refor
 
 ---
 
+## 🌐 Demo del proyecto
+
+<p align="center">
+  <a href="https://jleival.github.io/desafio-2-layout-de-e_commerce-con-grid/">
+    <img src="https://img.shields.io/badge/🔗_Ver_Demo-GitHub_Pages-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://jleival.github.io/desafio-2-layout-de-e_commerce-con-grid/">
+    <img 
+      src="https://raw.githubusercontent.com/jleival/desafio-2-layout-de-e_commerce-con-grid/main/assets/img/preview.png" 
+      alt="Preview del proyecto"
+      width="900"
+    >
+  </a>
+</p>
+
+---
+
 ## 🚀 Tecnologías utilizadas
 * HTML5
 * CSS3
