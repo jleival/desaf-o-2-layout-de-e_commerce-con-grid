@@ -1,71 +1,73 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Desafío 2 | Layout de e-commerce con Grid</title>
-    <!-- Normalize CSS -->
-    <link rel="stylesheet" href="./assets/css/normalize.css" />
-    <!-- Custom Styles -->
-    <link rel="stylesheet" href="./assets/css/style.css" />
-  </head>
-  <body>
-    <!-- Layout de e-commerce con Grid -->
-    <div class="grid-container">
-      <header class="header">
-        <h1>Mi Ecommerce</h1>
-      </header>
-      <aside class="sidebar">
-        <h2>Categorías</h2>
-        <nav class="categorias">
-          <ul>
-            <li><a href="#">Perfumes <span class="conteo">(13)</span></a></li>
-            <li><a href="#">Accesorios <span class="conteo">(21)</span></a></li>
-            <li><a href="#">Ofertas <span class="conteo">(41)</span></a></li>
-            <li><a href="#">Contacto <span class="conteo">(10)</span></a></li>
-          </ul>
-        </nav>
-      </aside>
-      <main class="main">
-        <!-- Productos -->
-        <section class="productos">
-          <!-- Articulo 1 -->
-          <article class="tarjeta">
-            <img src="./assets/img/articulo_1.png" alt="Perfume myKingdom" />
-            <h3>Perfume myKingdom</h3>
-            <p class="precio">31.400</p>
-            <button type="button">Comprar</button>
-          </article>
 
-          <!-- Articulo 2 -->
-          <article class="tarjeta">
-            <img src="./assets/img/articulo_2.png" alt="Perfume Phantom" />
-            <h3>Perfume Phantom</h3>
-            <p class="precio">68.900</p>
-            <button type="button">Comprar</button>
-          </article>
+<head>
+  <meta charset="UTF-8" />
+  <title>Desafío 2 | Layout de e-commerce con Grid</title>
+  <!-- Normalize CSS -->
+  <link rel="stylesheet" href="./assets/css/normalize.css" />
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
 
-          <!-- Articulo 3 -->
-          <article class="tarjeta">
-            <img src="./assets/img/articulo_3.png" alt="Zapatos Docker" />
-            <h3>Zapatos Docker</h3>
-            <p class="precio">29.700</p>
-            <button type="button">Comprar</button>
-          </article>
+<body>
+  <!-- Layout de e-commerce con Grid -->
+  <div class="grid-container">
+    <header class="header">
+      <h1>Mi Ecommerce</h1>
+    </header>
+    <aside class="sidebar">
+      <h2>Categorías</h2>
+      <nav class="categorias">
+        <ul>
+          <li><a href="#">Perfumes <span class="conteo">(13)</span></a></li>
+          <li><a href="#">Ropa <span class="conteo">(21)</span></a></li>
+          <li><a href="#">Accesorios <span class="conteo">(41)</span></a></li>
+          <li><a href="#">Zapatos <span class="conteo">(10)</span></a></li>
+        </ul>
+      </nav>
+    </aside>
+    <main class="main">
+      <!-- Productos -->
+      <section class="productos">
+        <!-- Articulo 1 -->
+        <article class="tarjeta">
+          <img src="./assets/img/articulo_1.png" alt="Perfume myKingdom" />
+          <h3>Perfume myKingdom</h3>
+          <p class="precio">31.400</p>
+          <button type="button">Comprar</button>
+        </article>
 
-          <!-- Articulo 4 -->
-          <article class="tarjeta">
-            <img src="./assets/img/articulo_4.png" alt="Poleron puma" />
-            <h3>Poleron puma</h3>
-            <p class="precio">44.700</p>
-            <button type="button">Comprar</button>
-          </article>
-        </section>
-      </main>
-      <!-- Pie de página -->
-      <footer class="footer">
-        <p>@miecommerce</p>
-      </footer>
-    </div>
-  </body>
+        <!-- Articulo 2 -->
+        <article class="tarjeta">
+          <img src="./assets/img/articulo_2.png" alt="Perfume Phantom" />
+          <h3>Perfume Phantom</h3>
+          <p class="precio">68.900</p>
+          <button type="button">Comprar</button>
+        </article>
+
+        <!-- Articulo 3 -->
+        <article class="tarjeta">
+          <img src="./assets/img/articulo_3.png" alt="Zapatos Docker" />
+          <h3>Zapatos Docker</h3>
+          <p class="precio">29.700</p>
+          <button type="button">Comprar</button>
+        </article>
+
+        <!-- Articulo 4 -->
+        <article class="tarjeta">
+          <img src="./assets/img/articulo_4.png" alt="Poleron puma" />
+          <h3>Poleron puma</h3>
+          <p class="precio">44.700</p>
+          <button type="button">Comprar</button>
+        </article>
+      </section>
+    </main>
+    <!-- Pie de página -->
+    <footer class="footer">
+      <p>@miecommerce</p>
+    </footer>
+  </div>
+</body>
+
 </html>
