@@ -56,7 +56,7 @@ El desafío fue desarrollado siguiendo los requerimientos solicitados para refor
 
 ---
 
-## ## 🖥️ Estructura del Layout
+## 🖥️ Estructura del Layout
 
 | Sección | Descripción |
 |----------|-------------|
